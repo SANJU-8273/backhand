@@ -1,0 +1,25 @@
+{
+  "name": "backhand",
+  "version": "1.0.0",
+  "description": "backend code from chai or code",
+  "keywords": [
+    "javascrip",
+    "backend",
+    "code"
+  ],
+  "homepage": "https://github.com/SANJU-8273/backhand#readme",
+  "bugs": {
+    "url": "https://github.com/SANJU-8273/backhand/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SANJU-8273/backhand.git"
+  },
+  "license": "ISC",
+  "author": "sanju kishor",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
